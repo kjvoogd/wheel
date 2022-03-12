@@ -20,7 +20,14 @@
 | SDA           | A4 (SDA)  | D21 (GPIO 21) SDA |
 
 
+## neopixel
 
+![neo_pix](https://user-images.githubusercontent.com/2764526/158013567-5196e040-185d-43bf-9cd6-9a11063a85bd.png)
 
+| RING          | Uno       | ESP32  |
+| ------------- |-----------| -------|
+| GND           | GND       | GND |
+| VCC           | 3.3 V     | 3.3 V |
+| Data In       | 6 (PD6)   | D27 (GPIO 27) |
 
 
